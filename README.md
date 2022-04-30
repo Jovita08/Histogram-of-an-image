@@ -78,10 +78,13 @@ cv2.destroyAllWindows()
 ![image](https://github.com/20004426-venkatesh/Histogram-of-an-image/blob/main/h1.jpg)
 
 Histogram of Grayscale Image and any channel of Color Image
+
 ![image](https://github.com/20004426-venkatesh/Histogram-of-an-image/blob/main/h2.jpg)
+
 ![image](https://github.com/20004426-venkatesh/Histogram-of-an-image/blob/main/h3.jpg)
 
 Histogram Equalization of Grayscale Image
+
 ![image](https://github.com/20004426-venkatesh/Histogram-of-an-image/blob/main/h4.jpg)
 
 ## Result: ##
